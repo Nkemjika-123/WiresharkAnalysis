@@ -17,7 +17,7 @@ Type icmp in the filter bar and then enter
 
 ![WiresharkAnalysis](Wireshark4.png)
 
-Identified Packet 1 & 4
+## Identified Packet 1 & 4
 
 Packet 1 – ICMP Echo Request
 
