@@ -42,7 +42,7 @@ Packet 4 – ICMP Echo Reply
 
 ## Observation
 
-I observed the ICMP traffic between my Kali Linux virtual machine and the IP address 8.8.8.8.
+I observed that the ICMP traffic between my Kali Linux virtual machine and the IP address 8.8.8.8.
 
 The ICMP Echo Request packets were sent from my Kali virtual machine (10.0.2.4) to 8.8.8.8. The destination responded with ICMP Echo Reply packets, which were sent back to my Kali virtual machine.
 
