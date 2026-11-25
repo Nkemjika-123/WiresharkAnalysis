@@ -7,15 +7,15 @@ Open terminal and ping -c 4 8.8.8.8
 
 Open wireshark and activate eth0
 
-## screenshot
+![WiresharkAnalysis](Wireshark2.png)
 
 Capturing Started
 
-## screenshot
+![WiresharkAnalysis](Wireshark3.png)
 
 Type icmp in the filter bar and then enter
 
-## screenshot
+![WiresharkAnalysis](Wireshark4.png)
 
 Identified Packet 1 & 4
 
