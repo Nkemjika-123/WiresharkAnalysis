@@ -3,7 +3,7 @@ Hands-on network traffic analysis using Wireshark, including packet capture, ICM
 
 Open terminal and ping -c 4 8.8.8.8
 
-## screenshot
+![WiresharkAnalysis](Wireshark1.png)
 
 Open wireshark and activate eth0
 
